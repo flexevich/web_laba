@@ -78,3 +78,11 @@ body {
     margin-top: 300px;
     color: rgb(238, 203, 156);
 }
+
+#myButton {
+    border: none;
+    background-color: rgb(212, 134, 206);
+}
+#demo {
+    margin-top: 10px;
+}
